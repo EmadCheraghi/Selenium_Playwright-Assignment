@@ -1,0 +1,11 @@
+com\saucedemo\automation\Config.class
+com\saucedemo\automation\InventoryPage.class
+com\saucedemo\automation\LoginPage.class
+com\saucedemo\automation\CheckoutFlow.class
+com\saucedemo\automation\InformationPage.class
+com\saucedemo\automation\ConfirmationPage.class
+com\saucedemo\automation\OverviewPage.class
+com\saucedemo\automation\DriverFactory.class
+com\saucedemo\automation\ShoppingCartPage.class
+com\saucedemo\automation\AuthFlow.class
+com\saucedemo\automation\BasePage.class
